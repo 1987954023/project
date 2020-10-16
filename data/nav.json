@@ -1,0 +1,226 @@
+[{
+    "title": "手机",
+    "buttomImg": [{
+        "id": 1,
+        "img": "https://res6.vmallres.com/pimages//product/6901443381395/428_428_3D49606EC05C3B4ED89368F84D0B672CF5B647187113B9A2mp.png",
+        "title": "HUAWEI P40 5G",
+        "price": "¥4488"
+    }, {
+        "id": 2,
+        "img": "https://res2.vmallres.com/pimages//product/6901443381494/428_428_EE0830231483A4C3B1D7CAB975049B85AEEE2B6CAE79B1A7mp.png",
+        "title": "HUAWEI P40 Pro 5G",
+        "price": "¥5988"
+    }, {
+        "id": 3,
+        "img": "https://res9.vmallres.com/pimages//product/6901443353255/428_428_6E2453AE284EE0F923A954420DF2A6906B485FA5A24A80D9mp.png",
+        "title": "HUAWEI Mate 30 Pro 5G",
+        "price": "¥5899"
+    }, {
+        "id": 4,
+        "img": "https://res2.vmallres.com/pimages//product/6901443353361/428_428_6381399AD1BADEB91EBD63AF4EAE62016C58317DDEB7C5C4mp.png",
+        "title": "HUAWEI Mate 30 5G",
+        "price": "¥4499"
+    }, {
+        "id": 5,
+        "img": "https://res1.vmallres.com/pimages//product/6901443393244/428_428_706395CE98EB6A95286AFD0716D2C7E9293B7F42C1DDFBECmp.png",
+        "title": "HUAWEI nova 7",
+        "price": "¥2999"
+    }, {
+        "id": 6,
+        "img": "https://res4.vmallres.com/pimages//product/6901443387984/428_428_CA16AD0891C031C45C53FB3909E9FF609CCA6C46C2581A76mp.png",
+        "title": "HUAWEI nova 7 SE",
+        "price": "¥2399"
+    }, {
+        "id": 7,
+        "img": "https://res0.vmallres.com/pimages//product/6901443356164/428_428_75DCBAD9571ECC84EEB5F916586C9889017D693164A088C5mp.png",
+        "title": "HUAWEI nova 5z",
+        "price": "¥1499"
+    }, {
+        "id": 8,
+        "img": "https://res0.vmallres.com/pimages//product/6972453164933/428_428_5954F5F7C749ECA57EABDABFA9260FBF2A19CE0C6E29B664mp.png",
+        "title": "华为畅享Z",
+        "price": "¥1699"
+    }, {
+        "id": 9,
+        "img": "https://res3.vmallres.com/pimages//product/6901443376506/428_428_5A4871DB483B6E0D92CA527C3D367A6A32E2B433F5870412mp.png",
+        "title": "HUAWEI Mate Xs 5G",
+        "price": "¥16999"
+    }]
+}, {
+    "title": "笔记本电脑",
+    "buttomImg": [{
+        "id": 1,
+        "img": "https://res1.vmallres.com/pimages//product/6901443390243/428_428_CB59BC49A4E1F60D2A1F4C6C349E591D1B3F546807A34180mp.png",
+        "title": "HUAWEI MateBook 14 2020款",
+        "price": "¥6388"
+    }, {
+        "id": 2,
+        "img": "https://res2.vmallres.com/pimages//product/6901443367467/428_428_CFDD96467870CC9467E35FE54E7E5367852C2C935C744AAFmp.png",
+        "title": "HUAWEI MateBook D 14",
+        "price": "¥4699"
+    }, {
+        "id": 3,
+        "img": "https://res5.vmallres.com/pimages//product/6941487201426/428_428_3643AB966EBC8FDF83BBB7BCBC4E562FB45A8E51C2CDFC65mp.png",
+        "title": "HUAWEI MateBook X Pro 2020款",
+        "price": "¥8988"
+    }, {
+        "id": 4,
+        "img": "https://res7.vmallres.com/pimages//product/6901443404926/428_428_EC057BA9FC304F37A60287C1D9E761FACF0EF559795D340Fmp.png",
+        "title": "HUAWEI MateBook X 2020款",
+        "price": "¥8988"
+    }, {
+        "id": 5,
+        "img": "https://res4.vmallres.com/pimages//product/6972453168085/428_428_A88D63D52261128AF24A1D8C872E1ACD1E93E53357655EA6mp.png",
+        "title": "HUAWEI MateBook 13 2020款",
+        "price": "¥5388"
+    }, {
+        "id": 6,
+        "img": "https://res4.vmallres.com/pimages//product/6901443303236/428_428_1557135438924mp.png",
+        "title": "HUAWEI 蓝牙鼠标（灰色）",
+        "price": "¥179"
+    }, {
+        "id": 7,
+        "img": "https://res6.vmallres.com/pimages//product/6972453168528/428_428_53CD96A14D0386AAF7FE1024A8663D4037119F45EDBA0C96mp.jpg",
+        "title": "HUAWEI MateBook X 笔记本内胆包（深灰色）",
+        "price": "¥199"
+    }, {
+        "id": 8,
+        "img": "https://res0.vmallres.com/pimages//product/6972453167798/428_428_8DF577306482E033F10700057C6D44C28F432B1D893135E7mp.png",
+        "title": "HUAWEI 风范双肩包",
+        "price": "¥699"
+    }]
+}, {
+    "title": "平板&穿戴",
+    "buttomImg": [{
+        "id": 1,
+        "img": "https://res0.vmallres.com/pimages//product/6901443361601/428_428_043BBBF55C69CCDB183C8BA0489A59984DB78229BDDD4E83mp.png",
+        "title": "HUAWEI MatePad Pro 10.8英寸",
+        "price": "¥3299"
+    }, {
+        "id": 2,
+        "img": "https://res8.vmallres.com/pimages//product/6941487204977/428_428_9854D71AF36A4AD887D175D66190303641FABF706E102EE6mp.png",
+        "title": "HUAWEI MatePad 5G 10.4英寸",
+        "price": "¥3199"
+    }, {
+        "id": 3,
+        "img": "https://res9.vmallres.com/pimages//product/6972453166364/428_428_673DF0AE32D3232BFEE3B812A2AEED9DFBBA7A5757F60955mp.png",
+        "title": "HUAWEI MatePad 10.8英寸",
+        "price": "¥2399"
+    }, {
+        "id": 4,
+        "img": "https://res5.vmallres.com/pimages//product/6901443315833/428_428_1560759050466mp.png",
+        "title": "华为平板 M6 10.8英寸",
+        "price": "¥2249"
+    }, {
+        "id": 5,
+        "img": "https://res9.vmallres.com/pimages//product/6901443319886/428_428_1560822806587mp.png",
+        "title": "华为平板 M6 8.4英寸",
+        "price": "¥1749"
+    }, {
+        "id": 6,
+        "img": "https://res1.vmallres.com/pimages//product/6901443320202/428_428_A8033BCC8CCFFF9199371E71953A1B8B9730D5ACACA293D0mp.png",
+        "title": "HUAWEI WATCH GT 2",
+        "price": "¥1438"
+    }, {
+        "id": 7,
+        "img": "https://res6.vmallres.com/pimages//product/6972453164261/428_428_9418FE4D530F761E44A6A2D8D10CD92AA8FDABA3F0BF78F1mp.png",
+        "title": "华为手环 B6",
+        "price": "¥1449"
+    }, {
+        "id": 8,
+        "img": "https://res9.vmallres.com/pimages//product/6901443254330/428_428_1553777154761mp.png",
+        "title": "华为儿童手表 3 Pro",
+        "price": "¥748"
+    }]
+}, {
+    "title": "智能家居",
+    "buttomImg": [{
+        "id": 1,
+        "img": "https://res2.vmallres.com/pimages//product/6901443331093/428_428_21EEE8FC1E9B970CAA527CC00F668B933528C62FBC4CD1E4mp.png",
+        "title": "华为智慧屏",
+        "price": "¥6799"
+    }, {
+        "id": 2,
+        "img": "https://res2.vmallres.com/pimages//product/6901443324965/428_428_1563154544230mp.png",
+        "title": "华为移动路由5G CPE Pro",
+        "price": "¥2499"
+    }, {
+        "id": 3,
+        "img": "https://res1.vmallres.com/pimages//product/6901443273324/428_428_1554109398579mp.png",
+        "title": "华为子母路由 Q2 Pro",
+        "price": "¥799"
+    }, {
+        "id": 4,
+        "img": "https://res7.vmallres.com/pimages//product/6972453160010/428_428_AE7ED32286D477FDC679E510BE5DAE46F0AD800E7D44D7B1mp.png",
+        "title": "华为路由A2",
+        "price": "¥349"
+    }, {
+        "id": 5,
+        "img": "https://res9.vmallres.com/pimages//product/6901443361151/428_428_8DFC81D5EB502121867D203E4DFA6F5D0728F7C57DA6D995mp.png",
+        "title": "华为5G随行WiFi",
+        "price": "¥1699"
+    }, {
+        "id": 6,
+        "img": "https://res4.vmallres.com/pimages//product/6901443347032/428_428_1A809F8C924A2812E378A60181704C516B8C09C9F03EFD19mp.png",
+        "title": "华为智能体脂秤 2 Pro",
+        "price": "¥499"
+    }, {
+        "id": 7,
+        "img": "https://res1.vmallres.com/pimages//product/GB3102150050701/428_428_1540988079208mp.png",
+        "title": "720全效空气净化器",
+        "price": "¥1099"
+    }]
+}, {
+    "title": "配件",
+    "buttomImg": [{
+        "id": 1,
+        "img": "https://res6.vmallres.com/pimages//product/6941487202270/428_428_22A68F76BD87992F722FAFA5CF7BDCAE20975DA46A222199mp.png",
+        "title": "HUAWEI FreeBuds Pro 无线耳机",
+        "price": "¥1099"
+    }, {
+        "id": 2,
+        "img": "https://res9.vmallres.com/pimages//product/6901443344697/428_428_C72517A4938F09A0E087E77DAE4A882A2A80674FAAC94C20mp.png",
+        "title": "HUAWEI FreeBuds 3 无线耳机",
+        "price": "¥949"
+    }, {
+        "id": 3,
+        "img": "https://res9.vmallres.com/pimages//product/6972453168863/428_428_6783E0D5D469618EAA8CAAB5752309575D5B26662C892C26mp.png",
+        "title": "HUAWEI FreeLace Pro 无线耳机",
+        "price": "¥579"
+    }, {
+        "id": 4,
+        "img": "https://res7.vmallres.com/pimages//product/6901443317301/428_428_1563239675439mp.png",
+        "title": "HUAWEI FreeBuds Pro 无线耳机",
+        "price": "¥1099"
+    }, {
+        "id": 5,
+        "img": "https://res5.vmallres.com/pimages//product/6941487201068/428_428_B8BC5A7709ACE6B4930F119A7363606418C455828BFABF02mp.png",
+        "title": "HUAWEI X GM Eyewear",
+        "price": "¥2699"
+    }, {
+        "id": 6,
+        "img": "https://res7.vmallres.com/pimages//product/6901443356119/428_428_A897196E7EA36622979AC0B41E9F1DF5BCDCF569450A388Fmp.png",
+        "title": "HUAWEI Sound X 智能音箱",
+        "price": "¥1499"
+    }, {
+        "id": 7,
+        "img": "https://res7.vmallres.com/pimages//product/6901443281398/428_428_1553601190793mp.png",
+        "title": "华为40W超级快充移动电源",
+        "price": "¥339"
+    }, {
+        "id": 8,
+        "img": "https://res2.vmallres.com/pimages//product/6901443365951/428_428_0C8489445202F89BEE7AB0E05F7CC56C5DFF2C3C8316C624mp.png",
+        "title": "HUAWEI P40 硅胶保护壳",
+        "price": "¥99"
+    }, {
+        "id": 9,
+        "img": "https://res1.vmallres.com/pimages//product/6901443325214/428_428_B4B231BE557D9DC5AA9627749F0846ECD3DCE76D2A7F881Fmp.png",
+        "title": "华为超级快充无线充电器",
+        "price": "¥179"
+    }, {
+        "id": 10,
+        "img": "https://res6.vmallres.com/pimages//product/6972453165633/428_428_2F6E47F0944BA4EA9C3CFE36E8DE912535C8972DFC183477mp.png",
+        "title": "华为三脚架自拍杆无线Pro版",
+        "price": "¥129"
+    }]
+}]

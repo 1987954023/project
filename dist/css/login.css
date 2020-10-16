@@ -1,0 +1,215 @@
+header {
+  height: 48px;
+  background: rgba(0, 0, 0, 0.05); }
+  header .header-center {
+    width: auto;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    border: 0;
+    position: relative;
+    line-height: 48px; }
+    header .header-center img {
+      height: 24px;
+      width: 108px;
+      vertical-align: middle;
+      float: left;
+      margin-top: 10px; }
+    header .header-center span {
+      float: left;
+      height: 48px;
+      line-height: 48px; }
+      header .header-center span p {
+        width: 1px;
+        height: 20px;
+        float: left;
+        vertical-align: middle;
+        background: rgba(0, 0, 0, 0.2);
+        margin: 14px 16px; }
+      header .header-center span div {
+        float: left;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1;
+        margin: 16px 0 0;
+        vertical-align: middle;
+        color: #191919; }
+
+main {
+  height: 600px; }
+  main .main-center {
+    width: 1200px;
+    margin: auto;
+    padding-top: 80px;
+    position: relative; }
+    main .main-center .main-left {
+      top: 50px;
+      left: 0px;
+      position: absolute; }
+      main .main-center .main-left div {
+        width: 240px;
+        padding: 16px;
+        border-radius: 8px;
+        color: #000; }
+        main .main-center .main-left div span {
+          font-size: 16px;
+          color: #000;
+          margin: 0 8px; }
+      main .main-center .main-left > :hover {
+        background: #75b3f5; }
+    main .main-center .active {
+      background: rgba(0, 0, 0, 0.05); }
+    main .main-center .main {
+      width: 400px;
+      height: 400px;
+      margin: auto;
+      text-align: center;
+      position: relative; }
+      main .main-center .main .main-right,
+      main .main-center .main .main-right-1 {
+        width: 400px;
+        height: 400px;
+        text-align: center;
+        top: 0px;
+        left: 0px;
+        position: absolute; }
+        main .main-center .main .main-right p,
+        main .main-center .main .main-right-1 p {
+          margin-top: 10px;
+          margin-bottom: 40px;
+          font-size: 18px;
+          color: #191919; }
+          main .main-center .main .main-right p a,
+          main .main-center .main .main-right-1 p a {
+            color: #007dff; }
+        main .main-center .main .main-right div,
+        main .main-center .main .main-right-1 div {
+          position: relative;
+          margin-top: 30px;
+          border-radius: 8px; }
+          main .main-center .main .main-right div p,
+          main .main-center .main .main-right-1 div p {
+            position: absolute;
+            top: 0px;
+            right: -30px;
+            display: none; }
+          main .main-center .main .main-right div input,
+          main .main-center .main .main-right-1 div input {
+            padding: 10px;
+            box-sizing: border-box;
+            width: 100%;
+            height: 48px;
+            outline: none;
+            background: rgba(0, 0, 0, 0.05);
+            border-radius: 8px;
+            border: none; }
+          main .main-center .main .main-right div .in4,
+          main .main-center .main .main-right-1 div .in4 {
+            background: #007dff;
+            width: 80%;
+            font-size: 16px;
+            font-weight: bold;
+            color: #fff; }
+          main .main-center .main .main-right div span,
+          main .main-center .main .main-right-1 div span {
+            text-align: left;
+            top: -20px;
+            left: 0px;
+            position: absolute;
+            width: 200px;
+            font-size: 12px;
+            height: 20px;
+            display: none; }
+          main .main-center .main .main-right div .input-div,
+          main .main-center .main .main-right-1 div .input-div {
+            position: absolute;
+            top: 21px;
+            right: 98px;
+            height: 20px;
+            width: 200px;
+            display: none; }
+            main .main-center .main .main-right div .input-div div,
+            main .main-center .main .main-right-1 div .input-div div {
+              width: 50px;
+              height: 20px;
+              margin: 0;
+              border: 1px solid #b8b2b2;
+              font-size: 12px;
+              font-weight: 700;
+              float: left;
+              text-align: center; }
+          main .main-center .main .main-right div .input2-b2,
+          main .main-center .main .main-right div .input3-b2,
+          main .main-center .main .main-right-1 div .input2-b2,
+          main .main-center .main .main-right-1 div .input3-b2 {
+            position: absolute;
+            top: 3px;
+            right: 0px;
+            margin: 0;
+            width: 40px;
+            height: 40px;
+            display: block; }
+            main .main-center .main .main-right div .input2-b2 span,
+            main .main-center .main .main-right div .input3-b2 span,
+            main .main-center .main .main-right-1 div .input2-b2 span,
+            main .main-center .main .main-right-1 div .input3-b2 span {
+              position: absolute;
+              left: -3px;
+              top: 10px;
+              color: #000;
+              font-size: 20px;
+              display: block; }
+          main .main-center .main .main-right div .input2-b1,
+          main .main-center .main .main-right div .input3-b1,
+          main .main-center .main .main-right-1 div .input2-b1,
+          main .main-center .main .main-right-1 div .input3-b1 {
+            position: absolute;
+            top: 3px;
+            right: 0px;
+            margin: 0;
+            width: 40px;
+            height: 40px;
+            display: block; }
+            main .main-center .main .main-right div .input2-b1 span,
+            main .main-center .main .main-right div .input3-b1 span,
+            main .main-center .main .main-right-1 div .input2-b1 span,
+            main .main-center .main .main-right-1 div .input3-b1 span {
+              right: 0px;
+              top: 9px;
+              color: #000;
+              font-size: 20px;
+              display: block; }
+          main .main-center .main .main-right div .input2-b1,
+          main .main-center .main .main-right div .input3-b1,
+          main .main-center .main .main-right-1 div .input2-b1,
+          main .main-center .main .main-right-1 div .input3-b1 {
+            display: none; }
+            main .main-center .main .main-right div .input2-b1 span,
+            main .main-center .main .main-right div .input3-b1 span,
+            main .main-center .main .main-right-1 div .input2-b1 span,
+            main .main-center .main .main-right-1 div .input3-b1 span {
+              display: block; }
+      main .main-center .main .main-right-1 {
+        display: none; }
+
+.active2 {
+  background-color: orangered; }
+
+footer {
+  background: rgba(0, 0, 0, 0.05);
+  height: 88px; }
+  footer .footer-center {
+    width: 1200px;
+    height: 80px;
+    text-align: center;
+    margin: 0 auto; }
+    footer .footer-center div {
+      padding-top: 30px;
+      margin-bottom: 10px;
+      color: #191919;
+      font-size: 14px; }
+      footer .footer-center div span {
+        margin: 0 1px; }
+    footer .footer-center p {
+      opacity: .3;
+      font-size: 12px; }
